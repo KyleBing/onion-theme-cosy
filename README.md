@@ -25,6 +25,11 @@ Based on another theme named [Wireframe](https://github.com/KyleBing/onion-theme
 
 ```
 
+| File                     | Soft Version          | Description                                             |
+|--------------------------|-----------------------|---------------------------------------------------------|
+| RetroGameConsoleIcons.ai | AdobeIllustrator CC ↑ | Consoles icon and handheld icon                         |
+| MiyooMini-cosy.sketch    | Sketch 43 ↑           | All theme image in it, include app icons, console icons |
+
 
 ## Install
 
