@@ -19,17 +19,10 @@ Based on another theme named [Wireframe](https://github.com/KyleBing/onion-theme
 ```bash
 .
 ├── BootImage                 # boot image for MiyooMini+ app Miyoo-Mini-easy-logotweak to use, can change MiyooMini+'s boot image
-├── DesignFile                # sketch file, theme template file
 ├── Preview                   # some preview images
 └── Cosy by KyleBing          # original theme folder
 
 ```
-
-| File                     | Soft Version          | Description                                             |
-|--------------------------|-----------------------|---------------------------------------------------------|
-| RetroGameConsoleIcons.ai | AdobeIllustrator CC ↑ | Consoles icon and handheld icon                         |
-| MiyooMini-cosy.sketch    | Sketch 43 ↑           | All theme image in it, include app icons, console icons |
-
 
 ## Install
 

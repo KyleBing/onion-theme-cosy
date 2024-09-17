@@ -20,17 +20,10 @@
 ```bash
 .
 ├── BootImage                 # 启动画面用图， 使用 MiyooMini+ 上的应用 Miyoo-Mini-easy-logotweak 可以实现。
-├── DesignFile                # 设计文件，格式为 sketch，包含所有设计图。
 ├── Preview                   # 界面预览
 └── Cosy by KyleBing          # 主题文件夹
 
 ```
-
-
-| 文件                       | 软件版本                  | 说明                     |
-|--------------------------|-----------------------|------------------------|
-| RetroGameConsoleIcons.ai | AdobeIllustrator CC ↑ | 游戏机和游戏手柄图标             |
-| MiyooMini-cosy.sketch    | Sketch 43 ↑           | 所有主题用到的图片，包含应用图标、游戏图标等 |
 
 
 ## 安装
