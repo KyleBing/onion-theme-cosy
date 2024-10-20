@@ -47,9 +47,3 @@ Boot image for this theme is placed in `/BootImage` Folder. You will know what t
 ![MainUI_019](https://github.com/user-attachments/assets/16c4f47d-dcc7-444b-bddc-8bf8e9983317)
 ![MainUI_021](https://github.com/user-attachments/assets/c0b7a513-1821-4ddd-a95b-9dab385b9484)
 
-
-Design file preview
-
-<img width="2032" alt="Screenshot 2024-08-26 at 22 26 11" src="https://github.com/user-attachments/assets/4ff62c69-059e-4a1e-a69b-dbf24df82463">
-
-
