@@ -48,6 +48,12 @@
 
 ## 其它界面预览
 
-![MainUI_019](https://github.com/user-attachments/assets/16c4f47d-dcc7-444b-bddc-8bf8e9983317)
-
-![MainUI_021](https://github.com/user-attachments/assets/c0b7a513-1821-4ddd-a95b-9dab385b9484)
+![AppList](https://github.com/user-attachments/assets/50dc910f-86dc-4c7b-bca8-f9fccadaa872)
+![BatteryCharging_off](https://github.com/user-attachments/assets/88f0ee87-dfed-4a6f-ba32-5c5e08396e31)
+![GameConsoleList](https://github.com/user-attachments/assets/863e5c0e-ddef-4ee1-a311-5088be3c5f4d)
+![GameFileList](https://github.com/user-attachments/assets/e4073f86-e3cc-42a5-b1e8-0fac8a6c3f29)
+![GameFileList-Folder](https://github.com/user-attachments/assets/cbdb2a10-73e7-407f-8729-1bb5708b580a)
+![GameList-Big](https://github.com/user-attachments/assets/eca62490-9b07-4fed-a1f6-b84f91181fda)
+![GameSwitcher](https://github.com/user-attachments/assets/a28561a7-d8b0-44d4-b4e2-c1bec157b987)
+![MenuList](https://github.com/user-attachments/assets/e4734369-74e6-456b-a730-752159ccc6e0)
+![ThemeSwitcher](https://github.com/user-attachments/assets/8f42fc4e-19af-495e-8383-d0e1984fc6a3)
