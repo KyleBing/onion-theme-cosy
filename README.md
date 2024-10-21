@@ -1,3 +1,7 @@
+![banner](./art/art-horizontal-3000h.png)
+
+
+> last update 2024-10-21  
 > [中文说明](./README_zh.md)
 
 # Cosy
@@ -46,4 +50,3 @@ Boot image for this theme is placed in `/BootImage` Folder. You will know what t
 
 ![MainUI_019](https://github.com/user-attachments/assets/16c4f47d-dcc7-444b-bddc-8bf8e9983317)
 ![MainUI_021](https://github.com/user-attachments/assets/c0b7a513-1821-4ddd-a95b-9dab385b9484)
-

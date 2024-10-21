@@ -1,4 +1,8 @@
+![banner](./art/art-horizontal-3000h.png)
+
+> last update 2024-10-21  
 > [English README](./README.md)
+
 
 # Cosy
 
