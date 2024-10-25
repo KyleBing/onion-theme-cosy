@@ -1,6 +1,6 @@
 ![banner](./art/art-horizontal-3000h.png)
 
-> last update 2024-10-21  
+> last update 2024-10-25 
 > [English README](./README.md)
 
 

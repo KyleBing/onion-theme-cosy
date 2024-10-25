@@ -1,7 +1,7 @@
 ![banner](./art/art-horizontal-3000h.png)
 
 
-> last update 2024-10-21  
+> last update 2024-10-25  
 > [中文说明](./README_zh.md)
 
 # Cosy
