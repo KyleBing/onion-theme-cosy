@@ -53,6 +53,16 @@ You can change boot image by using this app for MiyooMini+
 
 Boot image for this theme is placed in `/BootImage` Folder. You will know what to do after read the README in upper repository.
 
+
+## Credits
+
+**Nunwen Font:** by tenlevels (merged Nunito by Vernon Adams and wqy-microhei from Miyoo)  
+**Icons:** by KyleBing  
+**Console icons:** by KyleBing  
+**Proofreading:** SundownerSport
+
+
+
 ## Other Preview
 
 ![BatteryCharging_off](https://github.com/user-attachments/assets/88f0ee87-dfed-4a6f-ba32-5c5e08396e31)
