@@ -6,7 +6,7 @@
 
 # Cosy
 
-A theme for Miyoo Mini Plus device.  
+A theme for Miyoo Mini/Mini+ (with [OnionOS](https://github.com/OnionUI/Onion)) device.  
 Based on another theme named [Wireframe](https://github.com/KyleBing/onion-theme-wireframe).
 
 
